@@ -1,6 +1,6 @@
 <strong>Hi there👋 I'm Uche</strong>
 
-![MacBook Pro - 1](https://user-images.githubusercontent.com/71810923/140908880-53e281da-b286-4886-9613-29ddf6a6d9d1.png)
+![Uploading MacBook Pro - 1 (1).png…]()
 
 
 - 🔭 I’m currently working on Internet
